@@ -1,4 +1,4 @@
-#<\>!python3.11
+00#<\>!python3.11
 
 #-------------------Dont Edit This Script-----------------#
 
@@ -12,7 +12,7 @@ if bitt=="32bit":
 
     time.sleep(2)
 
-    import Mr2.WiKi
+    import Mr.WiKi
 
 elif bitt=="64bit":
 
